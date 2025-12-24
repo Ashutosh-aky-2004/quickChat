@@ -48,8 +48,8 @@ Open the client (if separate) or visit `http://localhost:3000` in your browser a
 
 ## Development
 
-- Server: `npm run dev` (or the project's dev command)
-- Client: `npm run start` inside the client folder (if there is one)
+- Server: `npm run dev` 
+- Client: `npm run start` inside the client folder 
 
 If the repository includes both server and client, run them in separate terminals.
 
@@ -60,20 +60,4 @@ This project contains example client/server code. Use the example to learn how t
 - Connect a WebSocket client to the server
 - Join/leave rooms
 - Broadcast and emit messages
-- Persist chat history (optional)
-
-## Contributing
-
-Contributions are welcome! Please open an issue to discuss major changes before submitting a pull request.
-
-- Create an issue describing the feature or bug.
-- Fork the repository and create a feature branch.
-- Open a pull request with a clear description of changes.
-
-## License
-
-This project is open source. Replace this section with the actual license (e.g., MIT).
-
-## Contact
-
-Created by Ashutosh-kumar-2004. For questions or help, open an issue or contact the repository owner.
+- Persist chat history
